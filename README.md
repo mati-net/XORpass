@@ -4,7 +4,7 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-XORpass is an encoder to bypass WAF filters using XOR calculations.
+XORpass is an encoder to bypass WAF filters using XOR operations.
 
 ### Installation & Usage
 ```
